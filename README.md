@@ -1,4 +1,4 @@
-# Pretty-Json-Pipe
+# prettyJson Pipe
 
 You can use this pipe like:\
 `<pre [innerHtml]="YOUR_JSON | prettyJson: [true, 3]"></pre>`\
