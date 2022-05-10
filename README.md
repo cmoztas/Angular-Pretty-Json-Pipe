@@ -6,4 +6,7 @@ You can use this pipe like:\
 prettyJsonPipe default values are 'false' for line numbers and 3 for paddings.
 
 ### Example output is:
-![Example Output](https://github.com/cmoztas/Angular-Pretty-Json-Pipe/blob/main/ex.png?raw=true "Example Output")
+![Example Output](https://github.com/cmoztas/Angular-Pretty-Json-Pipe/blob/main/ex.png?raw=true "Example Output")\
+\
+##### Source
+https://stackoverflow.com/questions/37308420/
