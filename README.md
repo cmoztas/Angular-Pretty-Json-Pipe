@@ -1,8 +1,8 @@
 # Pretty-Json-Pipe
 
-You can use this pipe like:
-`<pre [innerHtml]="YOUR_JSON | prettyJson: [true, 3]"></pre>`
-
+You can use this pipe like:\
+`<pre [innerHtml]="YOUR_JSON | prettyJson: [true, 3]"></pre>`\
+\
 prettyJsonPipe default values are 'false' for line numbers and 3 for paddings.
 
 ### Example output is:
